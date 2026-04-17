@@ -4,7 +4,7 @@ During a SaaS churn analysis project, a structured Data Healing audit revealed a
 # SaaS Data Quality Audit: Why I Rejected 25,000 Rows of Data 🚫📊
 
 ![SQL](https://img.shields.io/badge/Language-SQL-blue.svg) 
-![Python](https://img.shields.io/badge/Language-Python-green.svg)(https://www.kaggle.com/code/vangsrivij/saas-data-quality-audit-why-i-rejected-25-000-row) 
+![Python](https://img.shields.io/badge/Language-Python-green.svg) 
 ![Status](https://img.shields.io/badge/Project-Data%20Integrity%20Audit-red.svg)
 ![Dataset](https://img.shields.io/badge/Dataset-yellow.svg)
 
