@@ -41,8 +41,8 @@ In a healthy system, all usage events ($y$) must occur after the signup date ($x
 > [!IMPORTANT]
 > **Observation:** 52.8% of data points fall into the **"Impossible Zone"** below the identity line. This proves a systemic generation error, not random noise.
 
-*(click on the python badge at the top to view the visial)*
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/32da0666-f275-4cda-82ef-2ef3836b09d1" />
+<img width="800" height="550" alt="image" src="https://github.com/user-attachments/assets/5ad25400-e3d5-45af-904c-947ca2626c13" />
+
 
 
 
