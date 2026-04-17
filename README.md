@@ -6,6 +6,7 @@ During a SaaS churn analysis project, a structured Data Healing audit revealed a
 ![SQL](https://img.shields.io/badge/Language-SQL-blue.svg) 
 ![Python](https://img.shields.io/badge/Language-Python-green.svg) 
 ![Status](https://img.shields.io/badge/Project-Data%20Integrity%20Audit-red.svg)
+![Dataset](https://img.shields.io/badge/Dataset-yellow.svg)
 
 ## 📝 Executive Summary
 During a SaaS churn analysis, I performed a **Data Healing** audit on 25,000 records. The discovery was stark: **52.8% of the data was logically impossible.** As an analyst with a background in **Applied Mathematics**, I prioritize "analytical integrity" over raw volume. This project documents the decision to **reject the source** rather than build insights on a logical hallucination.
